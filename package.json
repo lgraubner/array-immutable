@@ -1,0 +1,11 @@
+{
+  "name": "array-immutable",
+  "version": "1.0.0",
+  "description": "Immutable array functions",
+  "author": "Lars Graubner <mail@larsgraubner.de> (https://larsgraubner.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgraubner/array-immutable.git"
+  }
+}
